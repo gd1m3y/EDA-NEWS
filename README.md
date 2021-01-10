@@ -1,8 +1,8 @@
 #  Sentiment Analysis on Author data by using Python, Vader sentiment and Specrom Api
 >Sentiment analysis (or opinion mining) is a natural language processing technique used to determine whether data is positive, negative or neutral. Sentiment analysis is often performed on textual data to help businesses monitor brand and product sentiment in customer feedback, and understand customer needs.Sentiment analysis can help us get some insights on what actually is the content about, So in this post we will try to what kind of content each individual author provides on a monthly basis.
 
-![img](https://monkeylearn.com/static/3ca10d6ce5dc6922836f278aef38f765/50bf7/what-is-sentiment-analysis6%402x.png)
- [source](https://monkeylearn.com/sentiment-analysis/)
+![img](https://i.ibb.co/RyRT121/image-1.jpg)
+ 
 ## Getting our Data 
 > Data is heart and soul of our data analysis , It is the factor which determines how accurate or relevant our results will be. So to get our data we will be utilizing the Specrom API. Specrom News API fetches recent news articles(<24) from more than 20000 sources in very less amount of time. This api is very easy to use and just requires algorithmia python library
 
